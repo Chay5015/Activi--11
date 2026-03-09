@@ -8,8 +8,13 @@ namespace _02
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void MostrarNombre()
         {
+            cosole.WriteLin("")
+        }
+        static void Main()
+        {
+            MostrarNombre();
         }
     }
 }

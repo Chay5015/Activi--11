@@ -8,8 +8,14 @@ namespace _01
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void saludar()
+
         {
+            Console.WriteLine("Hola.... Bienvenido")
+        }
+        static void Main()
+        {
+            saludar();
         }
     }
 }
