@@ -1,9 +1,9 @@
 <Solution>
-  <Project Path="05/05.csproj" />
-  <Project Path="06/06.csproj" />
-  <Project Path="07/07.csproj" />
-  <Project Path="08/08.csproj" />
-  <Project Path="09/09.csproj" />
-  <Project Path="10/10.csproj" />
-  <Project Path="11/11.csproj" />
+  <Project Path="05/05.csproj" Id="1c9989fa-57c5-4817-9d37-40b350c4aa41" />
+  <Project Path="06/06.csproj" Id="b06d20a2-abcd-449c-be9a-26411f409c5f" />
+  <Project Path="07/07.csproj" Id="31b928ed-5a77-46ba-9b06-e240890c85da" />
+  <Project Path="08/08.csproj" Id="f078c3fa-764f-4ae4-971c-d6178b2715f0" />
+  <Project Path="09/09.csproj" Id="ebcf716f-eda0-45c0-9f84-508877b194ab" />
+  <Project Path="10/10.csproj" Id="158cbdbc-a9bc-4fdd-bd7e-7abe891ae148" />
+  <Project Path="11/11.csproj" Id="235a2f62-da54-451b-9ee0-18732ba4a277" />
 </Solution>
